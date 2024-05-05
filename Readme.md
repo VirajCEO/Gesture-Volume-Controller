@@ -1,0 +1,1 @@
+This is a gesture based volume controller with opencv and python that can control computer's volume with just hand gestures, used mediapipe library to read the hand gestures with user's webcam and then controlled volume accordingly with pycaw library 
